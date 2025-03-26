@@ -1,0 +1,20 @@
+100,Mathematics
+101,Physics
+102,Chemistry
+103,Biology
+104,History
+105,Geography
+106,English
+107,Literature
+108,Art
+109,Music
+110,Physical Education
+112,Economics
+113,Philosophy
+114,Psychology
+115,Sociology
+116,Political Science
+117,Environmental Science
+118,Foreign Languages
+119,Health Education
+111,Comp Sci
