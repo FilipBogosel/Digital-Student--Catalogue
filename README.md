@@ -1,11 +1,10 @@
 # School Management System
 
 A comprehensive application for managing students, disciplines, and grades with both console and GUI interfaces, featuring robust undo/redo functionality and multiple storage options.
-
-## Features
 ![image](https://github.com/user-attachments/assets/ce51620d-cde0-437d-b593-69cfc0ca16d6)
 ![image](https://github.com/user-attachments/assets/f0b24bc6-99e6-4e89-892d-56c7494637dc)
 
+## Features
 
 ### Core Functionality
 - **Student/Discipline Management**
